@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-scully-page"
+    }
+  },
+  "defaultProject": "angular-scully-page",
+  "cli": {
+    "analytics": false
+  }
 }
