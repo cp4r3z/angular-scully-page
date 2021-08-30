@@ -54,3 +54,10 @@ Sample images:
 
 http://www.bostonglobe.com/rw//Boston/2011-2020/WebGraphics/Politics/BostonGlobe.com/2014/10/24kennedy/Kennedy2014.jpg
 http://www.bostonglobe.com/rw//Boston/2011-2020/WebGraphics/Politics/BostonGlobe.com/2014/10/24kennedy/Kennedy19972.jpg
+
+Simple static file server options
+
+http://nginx.org/en/docs/http/ngx_http_autoindex_module.html
+https://umutcanbolat.com/how-to-enable-directory-listing-in-nginx/
+https://github.com/vercel/serve
+https://github.com/typicode/json-server
